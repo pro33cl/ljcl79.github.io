@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.div1 {
+    background-color: blue;
+    height: 33vh;
+}
+
+.div2 {
+    background-color: white;
+    height: 34vh;
+}
+
+.div3 {
+    background-color:blueviolet;
+    height: 33vh;
+}
